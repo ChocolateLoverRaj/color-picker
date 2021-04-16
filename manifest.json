@@ -3,9 +3,9 @@
     "apps": [
       {
         "name": "review-apps",
-        "headCommitId": "8ca5f44cf6b968bdc3e6b77b0b03bdf0b20cd370",
-        "updatedAt": "2021-04-16T00:11:28.524Z",
-        "href": "review-apps/master/8ca5f4"
+        "headCommitId": "526d6f03db003ce03faa18dee893f0a8b20082ec",
+        "updatedAt": "2021-04-14T17:24:26.075Z",
+        "href": "review-apps/master/526d6f"
       }
     ]
   },
@@ -14,8 +14,9 @@
       {
         "name": "review-apps",
         "headCommitId": "c21165047188e6de9c8472e698672af238c00cd8",
-        "updatedAt": "2021-04-16T00:08:37.011Z",
-        "href": "review-apps/easier-plugin/c21165"
+        "updatedAt": "2021-04-16T00:11:28.865Z",
+        "href": "review-apps/easier-plugin/c21165",
+        "pullRequestUrl": "https://github.com/ChocolateLoverRaj/color-picker/pull/2"
       }
     ]
   }
