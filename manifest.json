@@ -8,5 +8,15 @@
         "href": "review-apps/master/526d6f"
       }
     ]
+  },
+  "easier-plugin": {
+    "apps": [
+      {
+        "name": "review-apps",
+        "headCommitId": "c21165047188e6de9c8472e698672af238c00cd8",
+        "updatedAt": "2021-04-16T00:08:37.011Z",
+        "href": "review-apps/easier-plugin/c21165"
+      }
+    ]
   }
 }
