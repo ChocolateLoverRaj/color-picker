@@ -8,5 +8,15 @@
         "href": "review-apps/master/5522bc"
       }
     ]
+  },
+  "v2.1.1": {
+    "apps": [
+      {
+        "name": "review-apps",
+        "headCommitId": "5522bc193cc780ca20cdbd4179e07a98746331df",
+        "updatedAt": "2021-05-02T12:48:28.000Z",
+        "href": "review-apps/v2.1.1/5522bc"
+      }
+    ]
   }
 }
