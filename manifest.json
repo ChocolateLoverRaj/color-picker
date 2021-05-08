@@ -18,5 +18,16 @@
         "href": "review-apps/v2.1.1/5522bc"
       }
     ]
+  },
+  "development": {
+    "apps": [
+      {
+        "name": "review-apps",
+        "headCommitId": "0097ddad7f7d3a67cc78ddb9073ce631fc95c112",
+        "updatedAt": "2021-05-08T18:17:30.201Z",
+        "href": "review-apps/development/0097dd",
+        "pullRequestUrl": "https://github.com/ChocolateLoverRaj/color-picker/pull/3"
+      }
+    ]
   }
 }
