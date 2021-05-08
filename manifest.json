@@ -18,5 +18,15 @@
         "href": "review-apps/v2.1.1/5522bc"
       }
     ]
+  },
+  "v3.0.0": {
+    "apps": [
+      {
+        "name": "review-apps",
+        "headCommitId": "60165f32e10613551e64a6d7401ce9c2d29da676",
+        "updatedAt": "2021-05-08T18:31:07.081Z",
+        "href": "review-apps/v3.0.0/60165f"
+      }
+    ]
   }
 }
