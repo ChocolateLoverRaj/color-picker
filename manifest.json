@@ -3,9 +3,9 @@
     "apps": [
       {
         "name": "review-apps",
-        "headCommitId": "dbe9ccdca4d9e17fbdca056501f3ad775c350033",
-        "updatedAt": "2023-03-10T06:03:22.438Z",
-        "href": "review-apps/master/dbe9cc"
+        "headCommitId": "7a924b8f17984474b9ae175d5c848c332061a724",
+        "updatedAt": "2023-03-10T06:03:56.639Z",
+        "href": "review-apps/master/7a924b"
       }
     ]
   },
@@ -26,16 +26,6 @@
         "headCommitId": "60165f32e10613551e64a6d7401ce9c2d29da676",
         "updatedAt": "2021-05-08T18:31:07.081Z",
         "href": "review-apps/v3.0.0/60165f"
-      }
-    ]
-  },
-  "v3.0.1": {
-    "apps": [
-      {
-        "name": "review-apps",
-        "headCommitId": "7a924b8f17984474b9ae175d5c848c332061a724",
-        "updatedAt": "2023-03-10T06:03:55.429Z",
-        "href": "review-apps/v3.0.1/7a924b"
       }
     ]
   }
