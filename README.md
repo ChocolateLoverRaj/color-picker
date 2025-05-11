@@ -1,3 +1,6 @@
+> [!CAUTION]
+> I no longer maintain this or any JavaScript project. It looks like the upstream project is more up to date now. Check it out.
+
 # @programmerraj/rc-color-picker
 
 [![License](https://badgen.net/github/license/ChocolateLoverRaj/react-json-input)](https://github.com/ChocolateLoverRaj/react-json-input/blob/main/LICENSE)
